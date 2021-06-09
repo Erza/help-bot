@@ -123,5 +123,6 @@ end
 
 ## Starting the bot up
 1. Install NodeJS, on Ubuntu or Debian you can do so via `sudo apt install nodejs`
-2. Install PM2, like so `npm install pm2 -g`
-3. Start the bot like so `pm2 start bot.js --name "help-bot"`
+2. Install the Node Package Manager (NPM) via `sudo apt install npm`
+3. Install PM2, like so `npm install pm2 -g`
+4. Start the bot like so `pm2 start bot.js --name "help-bot"`
