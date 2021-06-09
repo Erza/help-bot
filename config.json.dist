@@ -1,0 +1,27 @@
+{
+	"bot": {
+		"token": "NzkyNzE1NDU0MTk2MDg4ODQy.X-hvzA.Ovy4MCQywSkoMRRclStW4xAYK7I"
+	},
+	"servers": [
+		{
+			"name": "My OT Discord",
+			"channelId": "123456789",
+			"db": {
+				"host": "127.0.0.1",
+				"user": "helpbot",
+				"password": "super_secret_password",
+				"name": "name_of_your_database"
+			}
+		},
+		{
+			"name": "My other OT Discord",
+			"channelId": "987654321",
+			"db": {
+				"host": "127.0.0.1",
+				"user": "helpbot",
+				"password": "2super_secret_password3",
+				"name": "name_of_your_other_database"
+			}
+		}
+	]
+}
